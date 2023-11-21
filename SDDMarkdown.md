@@ -28,3 +28,20 @@ Gregor then turned to look out the window at the dull weather. Drops.
 [Click here to Visit ASU!](https://www.asu.edu.jo/ar/Pages/default.aspx)
 
 ![ASU logo](https://upload.wikimedia.org/wikipedia/ar/8/82/ASU_Jordan_logo.PNG)
+
+To use User input in Java, we could use the ```Scanner  Hello World!``` Class.
+| Student Name | Student ID |
+|--------------|------------|
+| Mohammed Z   | 202010104  |
+|--------------|------------|
+| Dr.Jalal     | 1234567890 |
+|--------------|------------|
+
+
+- Task list:
+  - [x] Assignment 1
+  - [x] Assignment 2
+   - [ ] Assignment 3
+
+  >This is a blockquote.
+
